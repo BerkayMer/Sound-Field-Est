@@ -1,4 +1,4 @@
-#Learning SOund Fields Using Kernels
+# Learning Sound Fields Using Kernels
 
 ## Introduction
 A repo that uses the functions provided by aspcol to study the kernel and machine learning based sound field interpolation. Functions for the modified approaches along with examples are provided
